@@ -75,7 +75,7 @@ packages:
     source: hosted
     version: "4.3.7"
   lint:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: lint
       url: "https://pub.dartlang.org"
